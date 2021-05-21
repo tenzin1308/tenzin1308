@@ -7,7 +7,7 @@
 - 🌱 I’m currently a undergraduate student majoring in computer science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography <img src="https://iconarchive.com/download/i99778/designbolts/free-multimedia/Dslr-Camera.ico" width="15px" />, Playing golf <img src="https://i.pinimg.com/originals/8d/b8/2c/8db82c8eb910e2dbd5d194720cc350a0.jpg" width="20px" />  and listening to music <img src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/music_logo-700x525.jpg" width="25px" />
+- ⚡ Fun fact: I love photography <img src="https://iconarchive.com/download/i99778/designbolts/free-multimedia/Dslr-Camera.ico" width="25px" />, Playing golf <img src="https://lh3.googleusercontent.com/proxy/XTKlaKHq2ADjUBg-lDUPpmGzZTZDhjbzO4b4a11O3gmOippYDGhNwHt5Ez2aIud46qtUL4iaQdAEDB3O84Y539uCvgpTs3qGJJLDdx614ycPIiPrrFiJWDzRlC6gAZ3p5J_EkeVM9Pc" width="25px" />  and listening to music <img src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/music_logo-700x525.jpg" width="25px" />
 
 ```javascript
 define about me = {
