@@ -37,16 +37,7 @@
 <br />
 
 ---
-<!-- 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
- -->
-<!-- ➡️ [more videos...]
-
-</details> -->
 
 <!--
 [twitter]: https://twitter.com/codeSTACKr
