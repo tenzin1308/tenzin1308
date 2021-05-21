@@ -1,15 +1,15 @@
 ### Hi there, I'm Tenzin Tashi - aka Ten <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="30" />
 
 
-## I'm a Student, Tech mentor, Tutor
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a Student, Tech mentor, Tutor
 
 - 🌱 I’m currently a undergraduate student majoring in computer science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography and listening to music
 
-```python
-define tenzin = {
+```javascript
+define about me = {
     pronouns: "he" | "him",
     code: [Python, C++, HTML, CSS, React],
     technologies: {
