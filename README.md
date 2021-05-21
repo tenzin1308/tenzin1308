@@ -39,13 +39,14 @@ define about me = {
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Jupyter" width="30px" src="https://www.dataquest.io/wp-content/uploads/2019/01/1-LPnY8nOLg4S6_TG0DEXwsg-1.png" />
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Python" width="30px" src="https://www.pngjoy.com/pngm/70/13005462_python-logo-python-transparent-background-png-download.png" />
+<img align="left" alt="Java" width="30px" src="https://www.pngkey.com/png/detail/264-2646582_logo-transparent-background-java.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Python" width="30px" src="https://www.pngjoy.com/pngm/70/13005462_python-logo-python-transparent-background-png-download.png" />
-<img align="left" alt="Java" width="30px" src="https://img.favpng.com/19/25/8/java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP.jpg" />
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -62,7 +63,7 @@ Check out my repos ⬇️
 </p>
 
 <br />
-
+<br />
 ---
 
 
