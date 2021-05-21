@@ -39,7 +39,7 @@ define about me = {
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jupyter" width="30px" src="https://www.dataquest.io/wp-content/uploads/2019/01/1-LPnY8nOLg4S6_TG0DEXwsg-1.png" />
+<img align="left" alt="Jupyter" width="30px" src="https://www.clipartmax.com/png/small/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Python" width="30px" src="https://www.pngjoy.com/pngm/70/13005462_python-logo-python-transparent-background-png-download.png" />
 <img align="left" alt="Java" width="30px" src="https://www.pngkey.com/png/detail/264-2646582_logo-transparent-background-java.png" />
@@ -57,6 +57,7 @@ define about me = {
 
 <br />
 <br />
+<br />
 
 <p align="center">
 Check out my repos ⬇️  
@@ -64,6 +65,7 @@ Check out my repos ⬇️
 
 <br />
 <br />
+
 ---
 
 
