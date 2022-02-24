@@ -17,7 +17,7 @@
  -->
 
 ### Portfolio
-<a href="https://tenzinportfolio.netlify.app/" traget="_blank">Tenzin Portfolio</a>
+<a href="https://tenzinportfolio.netlify.app/" traget="_blank">My Portfolio</a>
 <br/>
  
 ### Connect with me:
